@@ -11,3 +11,14 @@ h1{
     color:rgb(254, 254, 255);
     text-align: center;
 }
+
+
+
+button{
+    color:white;
+    font-size:50px;
+}
+
+.imagem-flor{
+    width: 400px;
+}
